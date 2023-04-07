@@ -7,13 +7,13 @@
   <img src="readme-assets/murple_logo.png" alt="logo" width="140"  height="auto" />
   <br/>
 
-  <h3><b>enumerables-rb</b></h3>
+  <h3><b>Enumerable</b></h3>
 
 </div>
 
 # 📗 Table of Contents
 ## 📑 Table of Contents
-- [📊 enumerables-rb ](#-enumerables-rb-)
+- [📊 Enumerable ](#-enumerable-)
   - [🛠 Built With ](#-built-with-)
     - [🧰 Tech Stack ](#-tech-stack-)
     - [💎 Key Features ](#-key-features-)
@@ -33,10 +33,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📊 enumerables-rb <a name="about-project"></a>
+# 📊 Enumerable <a name="about-project"></a>
 
-A enumerables-rb Decoder with Ruby
-
+A Enumerable with Ruby
 
 ## 🛠 Built With <a name="built-with"></a>
 
