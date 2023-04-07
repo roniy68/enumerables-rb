@@ -7,13 +7,13 @@
   <img src="readme-assets/murple_logo.png" alt="logo" width="140"  height="auto" />
   <br/>
 
-  <h3><b>Morse Code</b></h3>
+  <h3><b>enumerables-rb</b></h3>
 
 </div>
 
 # 📗 Table of Contents
 ## 📑 Table of Contents
-- [📊 Morse Code ](#-Morse Code-)
+- [📊 enumerables-rb ](#-enumerables-rb-)
   - [🛠 Built With ](#-built-with-)
     - [🧰 Tech Stack ](#-tech-stack-)
     - [💎 Key Features ](#-key-features-)
@@ -33,9 +33,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📊 Morse Code <a name="about-project"></a>
+# 📊 enumerables-rb <a name="about-project"></a>
 
-A Morse Code Decoder with Ruby
+A enumerables-rb Decoder with Ruby
 
 
 ## 🛠 Built With <a name="built-with"></a>
